@@ -1,3 +1,3 @@
 # Team Test
 
-这是一个简单的 C++ Hello World 测试项目。
+成员 A 修改的项目说明。
